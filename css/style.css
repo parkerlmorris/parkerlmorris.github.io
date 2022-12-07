@@ -26,7 +26,6 @@ main {
   justify-content: center;
   align-items: stretch;
   align-content: center;
-  background-color: #588157;
 }
 
 h1 {
@@ -43,7 +42,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffa500;
+  color: #588157;
   padding: 10px 20px 0px 20px;
 }
 
