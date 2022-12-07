@@ -32,6 +32,7 @@ main {
 h1 {
   font-family: 'Lora', serif;
   font-size: calc(1em + 3vw);
+  background-color: #588157;
   padding-bottom: .67em;
   border-bottom: 1px solid;
   line-height: 1.3;
